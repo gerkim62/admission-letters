@@ -1,0 +1,1 @@
+export const STUDENTS_DATA_CSV_URL = 'data/students.csv'
